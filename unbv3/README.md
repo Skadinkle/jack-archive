@@ -1,4 +1,4 @@
-# UNBv3: Project-B
-This is an archive of the UNBv3 demo made by Jack before cancellation.<br><br>
-All assets made by Jack.<br>
-Reprogrammed by me.
+# :video_game: UNBv3: _Project-B (CANCELED)_
+**UNBv3** is a website designed to defy all school policies, primarily their methods of blocking websites and users.
+
+However, due to recent events, the website has been canceled due to _technical difficulties_.
