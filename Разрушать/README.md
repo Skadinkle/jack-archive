@@ -1,4 +1,4 @@
-# Разрушать (Destroy)
-This is a public archive of the Разрушать demo.<br><br>
-All assets are made by Jack.<br>
-Reprogrammed by me.
+# :ru: Разрушать _(Destroy)_
+Разрушать, also known as _Razrushat_, is a website designed to amas weird stuff from the internet.
+
+<sub>yeah</sub>
